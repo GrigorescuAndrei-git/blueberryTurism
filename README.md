@@ -61,5 +61,5 @@ Această aplicație web a fost realizată în PHP, cu interfață în Bootstrap,
 ## 👤 Autor
 
 **Grigorescu Eduard Andrei**  
-Student la Informatică – UPG Ploiești  
+Student la Informatică | Universitatea Petrol-Gaze din Ploiești  
 📧 grigorescu.e.andrei@gmail.com
